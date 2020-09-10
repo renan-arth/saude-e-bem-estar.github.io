@@ -8,22 +8,22 @@ html, body {
     background-size: cover;
 }
 #titulo {
-    color: white;
+    color: #01A15B;
     padding-top: 20%;
     font-size: 70px;
     line-height: 0.6;
     
 }
 #subtitulo {
-    color: white;
+    color:  ;
     margin-left: 20%;
     margin-right: 20%;
     border-top: 3px solid white;
     text-shadow: 1px 1px  black;
 }
 #acao {
-    color: white;
-    border: 1px white solid;
+    color: #01A15B;
+    border: 1px green solid;
     padding: 10px 20px 10px 20px ;
 }
 .icone {
@@ -33,8 +33,11 @@ section {
     padding: 20px;
     float: left;
 }
-.destaque {
-    background-color: #f7f7f7;
+#projeto{
+    background-color: #00FFFF;
+}
+.projeto{
+    background-color: #00FF7F;
 }
 .imgeco {
     width: 90%;
@@ -47,17 +50,26 @@ section {
 }
 .dois {
     width: 40%;
+    height:55%;
+    background-color: #00FFFF;
 }
 .quatro {
     width: 15%;
 }
 .tres {
     width: 29%;
+    height: 70%;
     padding: 0 2%;
+    background-color: #00FFFF;
 }
 .justificado {
     text-align: justify;
 }
 .centralizado {
     text-align: center;
+}
+.cinco{
+    width: 40%;
+    height:55%;
+    background-color: #00FF7F;
 }
